@@ -1,5 +1,7 @@
 # Pasta da máquina virtual
 dataviz/s03-matplotlib/s03
+dataviz/s04-pandas/s04
+dataviz/s05-seaborn/s05
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
