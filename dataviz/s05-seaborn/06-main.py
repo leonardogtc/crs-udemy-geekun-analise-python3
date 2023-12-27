@@ -12,7 +12,7 @@ sns.histplot(
     bins=8,
     linewidth=0.5,
     edgecolor='#fff',
-    legend=False 
+    legend=False
 )
 
 plt.show()
