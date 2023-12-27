@@ -3,6 +3,7 @@ dataviz/s03-matplotlib/s03
 dataviz/s04-pandas/s04
 dataviz/s05-seaborn/s05
 dataviz/s06-bokeh/s06
+dataviz/s07-plotly/s07
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
